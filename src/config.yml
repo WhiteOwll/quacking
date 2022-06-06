@@ -1,0 +1,4 @@
+#Fuel item (must be in UPPER_CASE) #default: GOLD_BLOCK
+fuelBlock: "GOLD_INGOT"
+#How long each fuel item lasts (seconds) #default: 100
+fuelTime: 25

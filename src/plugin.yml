@@ -1,0 +1,24 @@
+name: Quacking
+version: 1.1
+author: quack
+main: com.quack.quacking.Quacking
+api-version: 1.18
+commands:
+  dynamitestick:
+    description: Gives cum_stick
+    usage: /<command>
+  flystick:
+    description: gives fly_stick
+    usage: /<command>
+  snowball:
+    description: gives snowball cannon
+    usage: /<command>
+  flight_stick_info:
+    description: gives info about flight_hoe
+    usage: /<command>
+  cyastick:
+    description: stick
+    usage: /<command>
+  refreshfuel:
+    description: refreshes fuel checker
+    usage: /<command>
