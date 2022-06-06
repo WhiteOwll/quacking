@@ -7,7 +7,7 @@ TNTlogger > logs tnt placements in the world to prevent griefing.
 
 Added some custom recipies for ease of life/fun in minecraft
 
-##Random stuff:
+### Random stuff:
 Dynamite stick > just blows things up where ever you are cus why not
 
 Fly stick > launches you forward at the cost of hunger and eventually health
